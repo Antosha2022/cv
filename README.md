@@ -4,6 +4,8 @@
 
 https://www.wagerenhof.ch/
 * Menuplaner
+* Car reservation
+* Shop
 
 https://www.zav-recycling.ch/
 

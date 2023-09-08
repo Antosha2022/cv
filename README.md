@@ -12,10 +12,13 @@ https://www.zav-recycling.ch/
 * Contact form
 
 https://oliverfischer.ch/
+* Word Press
 
 http://kezo.test
+* Angular
 
 https://graf-gebrueder-ag.ch/
+* CSS
 
 Angular 
 API

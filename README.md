@@ -3,9 +3,10 @@
 ## portfolio
 
 https://www.wagerenhof.ch/
-* Menuplaner
-* Car reservation
-* Shop
+* TYPO-3
+** Menuplaner
+** Car reservation
+** Shop
 
 https://www.zav-recycling.ch/
 * Slider

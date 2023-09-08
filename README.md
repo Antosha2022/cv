@@ -20,6 +20,5 @@ http://kezo.test
 https://graf-gebrueder-ag.ch/
 * CSS
 
-Angular 
-API
+# APP Angular API
 

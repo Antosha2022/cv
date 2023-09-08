@@ -8,6 +8,8 @@ https://www.wagerenhof.ch/
 * Shop
 
 https://www.zav-recycling.ch/
+* Slider
+* Contact form
 
 https://oliverfischer.ch/
 
